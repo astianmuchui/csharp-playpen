@@ -1,0 +1,14 @@
+/home/seb/Dev/csharp-playpen/01-simple_calculator/bin/Debug/net8.0/01-simple_calculator
+/home/seb/Dev/csharp-playpen/01-simple_calculator/bin/Debug/net8.0/01-simple_calculator.deps.json
+/home/seb/Dev/csharp-playpen/01-simple_calculator/bin/Debug/net8.0/01-simple_calculator.runtimeconfig.json
+/home/seb/Dev/csharp-playpen/01-simple_calculator/bin/Debug/net8.0/01-simple_calculator.dll
+/home/seb/Dev/csharp-playpen/01-simple_calculator/bin/Debug/net8.0/01-simple_calculator.pdb
+/home/seb/Dev/csharp-playpen/01-simple_calculator/obj/Debug/net8.0/01-simple_calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/seb/Dev/csharp-playpen/01-simple_calculator/obj/Debug/net8.0/01-simple_calculator.AssemblyInfoInputs.cache
+/home/seb/Dev/csharp-playpen/01-simple_calculator/obj/Debug/net8.0/01-simple_calculator.AssemblyInfo.cs
+/home/seb/Dev/csharp-playpen/01-simple_calculator/obj/Debug/net8.0/01-simple_calculator.csproj.CoreCompileInputs.cache
+/home/seb/Dev/csharp-playpen/01-simple_calculator/obj/Debug/net8.0/01-simple_calculator.dll
+/home/seb/Dev/csharp-playpen/01-simple_calculator/obj/Debug/net8.0/refint/01-simple_calculator.dll
+/home/seb/Dev/csharp-playpen/01-simple_calculator/obj/Debug/net8.0/01-simple_calculator.pdb
+/home/seb/Dev/csharp-playpen/01-simple_calculator/obj/Debug/net8.0/01-simple_calculator.genruntimeconfig.cache
+/home/seb/Dev/csharp-playpen/01-simple_calculator/obj/Debug/net8.0/ref/01-simple_calculator.dll

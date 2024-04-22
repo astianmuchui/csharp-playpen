@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+yrfrC1UhEM35XfbbJx790VTq33SI10NsoT+vc9TN7Xo206E/4m8iVHq3lJcBzH6e0CuaZ6K3+G+0ZuaxZ+vTQ==",
+  "success": true,
+  "projectFilePath": "/home/seb/Dev/csharp-playpen/01-simple_calculator/01-simple_calculator.csproj",
+  "expectedPackageFiles": [
+    "/home/seb/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.4/microsoft.aspnetcore.app.ref.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
